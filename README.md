@@ -1,2 +1,14 @@
 # ngsports-football-hub
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
